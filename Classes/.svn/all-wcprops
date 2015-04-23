@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/527/branches/applesdk/MobileTerminal/Classes
+END
+GestureActionRegistry.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/475/branches/applesdk/MobileTerminal/Classes/GestureActionRegistry.m
+END
+MenuView.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/433/branches/applesdk/MobileTerminal/Classes/MenuView.h
+END
+MobileTerminalAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/520/branches/applesdk/MobileTerminal/Classes/MobileTerminalAppDelegate.h
+END
+GestureResponder.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/455/branches/applesdk/MobileTerminal/Classes/GestureResponder.h
+END
+MobileTerminalViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/509/branches/applesdk/MobileTerminal/Classes/MobileTerminalViewController.h
+END
+MobileTerminalAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/520/branches/applesdk/MobileTerminal/Classes/MobileTerminalAppDelegate.m
+END
+MenuView.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/487/branches/applesdk/MobileTerminal/Classes/MenuView.m
+END
+GestureActionRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/455/branches/applesdk/MobileTerminal/Classes/GestureActionRegistry.h
+END
+GestureResponder.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/475/branches/applesdk/MobileTerminal/Classes/GestureResponder.m
+END
+MobileTerminalViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/509/branches/applesdk/MobileTerminal/Classes/MobileTerminalViewController.m
+END

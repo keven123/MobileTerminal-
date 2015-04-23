@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/527/branches/applesdk/MobileTerminal/Classes/Preferences
+END
+MenuSettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/475/branches/applesdk/MobileTerminal/Classes/Preferences/MenuSettingsViewController.m
+END
+MenuSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/475/branches/applesdk/MobileTerminal/Classes/Preferences/MenuSettings.m
+END
+BorderedTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/436/branches/applesdk/MobileTerminal/Classes/Preferences/BorderedTextView.m
+END
+TerminalSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/398/branches/applesdk/MobileTerminal/Classes/Preferences/TerminalSettings.h
+END
+GestureSettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/475/branches/applesdk/MobileTerminal/Classes/Preferences/GestureSettingsViewController.h
+END
+GestureSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/445/branches/applesdk/MobileTerminal/Classes/Preferences/GestureSettings.h
+END
+PreferencesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/471/branches/applesdk/MobileTerminal/Classes/Preferences/PreferencesViewController.h
+END
+Settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/520/branches/applesdk/MobileTerminal/Classes/Preferences/Settings.h
+END
+TerminalSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/466/branches/applesdk/MobileTerminal/Classes/Preferences/TerminalSettings.m
+END
+GestureSettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/445/branches/applesdk/MobileTerminal/Classes/Preferences/GestureSettingsViewController.m
+END
+GestureSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/527/branches/applesdk/MobileTerminal/Classes/Preferences/GestureSettings.m
+END
+PreferencesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/509/branches/applesdk/MobileTerminal/Classes/Preferences/PreferencesViewController.m
+END
+Settings.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/520/branches/applesdk/MobileTerminal/Classes/Preferences/Settings.m
+END
+AboutViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/477/branches/applesdk/MobileTerminal/Classes/Preferences/AboutViewController.h
+END
+MenuEditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/436/branches/applesdk/MobileTerminal/Classes/Preferences/MenuEditViewController.h
+END
+AboutViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/484/branches/applesdk/MobileTerminal/Classes/Preferences/AboutViewController.m
+END
+MenuEditViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/436/branches/applesdk/MobileTerminal/Classes/Preferences/MenuEditViewController.m
+END
+GestureEditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/445/branches/applesdk/MobileTerminal/Classes/Preferences/GestureEditViewController.h
+END
+MenuSettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/436/branches/applesdk/MobileTerminal/Classes/Preferences/MenuSettingsViewController.h
+END
+MenuSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/475/branches/applesdk/MobileTerminal/Classes/Preferences/MenuSettings.h
+END
+BorderedTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/436/branches/applesdk/MobileTerminal/Classes/Preferences/BorderedTextView.h
+END
+GestureEditViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/445/branches/applesdk/MobileTerminal/Classes/Preferences/GestureEditViewController.m
+END

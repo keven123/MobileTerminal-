@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/436/branches/applesdk/MobileTerminal/Tests
+END
+MenuSettingsTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/436/branches/applesdk/MobileTerminal/Tests/MenuSettingsTest.m
+END
+VT100Test.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/388/branches/applesdk/MobileTerminal/Tests/VT100Test.h
+END
+ColorMapTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/398/branches/applesdk/MobileTerminal/Tests/ColorMapTest.h
+END
+VT100Test.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/395/branches/applesdk/MobileTerminal/Tests/VT100Test.m
+END
+ColorMapTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/398/branches/applesdk/MobileTerminal/Tests/ColorMapTest.m
+END
+MenuSettingsTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/412/branches/applesdk/MobileTerminal/Tests/MenuSettingsTest.h
+END

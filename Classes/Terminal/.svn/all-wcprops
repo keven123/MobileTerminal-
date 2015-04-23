@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/527/branches/applesdk/MobileTerminal/Classes/Terminal
+END
+TerminalView.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/488/branches/applesdk/MobileTerminal/Classes/Terminal/TerminalView.m
+END
+TerminalKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/527/branches/applesdk/MobileTerminal/Classes/Terminal/TerminalKeyboard.h
+END
+UITextInputBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/462/branches/applesdk/MobileTerminal/Classes/Terminal/UITextInputBase.h
+END
+TerminalKeyboard.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/506/branches/applesdk/MobileTerminal/Classes/Terminal/TerminalKeyboard.m
+END
+UITextInputBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/527/branches/applesdk/MobileTerminal/Classes/Terminal/UITextInputBase.m
+END
+TerminalGroupView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/424/branches/applesdk/MobileTerminal/Classes/Terminal/TerminalGroupView.h
+END
+TerminalView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/465/branches/applesdk/MobileTerminal/Classes/Terminal/TerminalView.h
+END
+TerminalGroupView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/509/branches/applesdk/MobileTerminal/Classes/Terminal/TerminalGroupView.m
+END

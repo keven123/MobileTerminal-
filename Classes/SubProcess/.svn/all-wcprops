@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/519/branches/applesdk/MobileTerminal/Classes/SubProcess
+END
+PTY.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/388/branches/applesdk/MobileTerminal/Classes/SubProcess/PTY.h
+END
+SubProcess.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/519/branches/applesdk/MobileTerminal/Classes/SubProcess/SubProcess.m
+END
+PTY.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/408/branches/applesdk/MobileTerminal/Classes/SubProcess/PTY.m
+END
+SubProcess.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/388/branches/applesdk/MobileTerminal/Classes/SubProcess/SubProcess.h
+END
